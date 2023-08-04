@@ -1,11 +1,13 @@
 # Assignment: House Price Prediction
 House price prediction is a crucial task in the field of data science and machine learning. It involves building a model that can estimate the price of a house based on various features or attributes associated with the property. The prediction of house prices is valuable for both homebuyers and sellers
 
-<img src="./model-evaluation/house-price-prediction.jpeg" alt="house-price-prediction.jpeg" style="display: block;
+<img src="./conf/house-price-prediction.jpeg" alt="house-price-prediction.jpeg" style="display: block;
   margin-left: auto;
   margin-right: auto;
   height: 300px;
   width: 100%">
+
+  [](./conf/house-price-prediction.jpeg)
 
 <aside>
 
