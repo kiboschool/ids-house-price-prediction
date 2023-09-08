@@ -18,7 +18,7 @@ House price prediction is a crucial task in the field of data science and machin
 </aside>
 
 ## House Price Prediction Model
-In this assignment, you will have the exciting opportunity to build a cool regression model that predicts house prices. As a data scientist, your task is to analyze a dataset containing various features of houses and their corresponding prices. By harnessing the power of machine learning, you will develop a model that can ACCURATELY estimate house prices based on the given features.
+In this assignment, you will have the exciting opportunity to build a cool regression model that predicts house prices. As a data scientist, your task is to analyze a dataset containing various features of houses and their corresponding prices. By harnessing the power of machine learning, you will develop a model that can ACCURATELY estimate house prices based on the given features and EVALUATE the model.
 
 
 > **Task**: Build a regression model to predict house prices based on various features and evaluate the model using multiple evaluation metrics.
